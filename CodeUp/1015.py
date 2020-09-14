@@ -1,2 +1,2 @@
 f = float(input())
-print("%f" % f)
+print("%.2f" % f)

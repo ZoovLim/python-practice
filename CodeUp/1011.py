@@ -1,2 +1,2 @@
-c = input();
-print(c);
+c = input()
+print(c)
